@@ -6,7 +6,7 @@
 - Contact me at [linkedin\daviszarins](https://www.linkedin.com/in/daviszarins/)
 ---
 
-##### Languages and tools
+##### LANGUAGES AND TOOLS
 
 <p align="left"> 
   <a href="https://www.oracle.com/java/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" height="50" alt="Java" /></a>
