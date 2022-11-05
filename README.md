@@ -16,7 +16,8 @@
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="50" height="50" alt="TypeScript" /></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50" height="50" alt="HTML5" /> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50" alt="CSS Logo" /> </a> 
-    </p>
+  <a href="https://www.oracle.com/uk/index.html"<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="50" height="50" alt="Oracle SQL" /></a> 
+</p>
   
   ##### SOFTWARE
 
