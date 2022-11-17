@@ -19,7 +19,16 @@
   <a href="https://www.oracle.com/uk/index.html"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle SQL" /></a>
 </p>
   
-  ##### SOFTWARE
+  
+##### SOFTWARE
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains Logo" width="50" height="50"/> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode Logo" width="50" height="50"/>
-<img align="left" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman Logo" width="50" height="50"/> <br/>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains Logo" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode Logo" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman Logo" width="50" height="50"/> 
+</p>
+
+----
+##### CURRENT PROJECTS
+- [Flight planner](https://github.com/yapijs/flight-planner) - application receives flight data via RestAPI, validates information and saves in memory. DB support will be added soon. Endpoint access via authorization.  
+- [Angular learning project](https://github.com/yapijs/Angular-Playground) - learning project for Angular, HTML, CSS.
