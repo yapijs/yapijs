@@ -30,5 +30,5 @@
 
 ----
 ##### CURRENT PROJECTS
-- [Flight planner](https://github.com/yapijs/flight-planner) - application receives flight data via RestAPI, validates information and saves in memory. DB support will be added soon. Endpoint access via authorization.  
+- [Flight planner](https://github.com/yapijs/flight-planner/tree/InMemoryApp) - application receives flight data via RestAPI, validates information and saves in memory. DB support will be added soon. Endpoint access via authorization.  
 - [Angular learning project](https://github.com/yapijs/Angular-Playground) - learning project for Angular, HTML, CSS.
