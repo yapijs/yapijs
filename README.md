@@ -30,6 +30,6 @@
 
 ----
 ##### CURRENT PROJECTS
-- [Search string](https://github.com/yapijs/StringSearchAndDecoding) - Search for words in string, added unit tests. Also string decoding task.
+- [Bus ticket API](https://github.com/yapijs/BusService) - gets input via api, calculates and returns detailed description of tickets.
 - [Wishlist](https://github.com/yapijs/Wishlist) - CRUD application with tests, saves data in PostgresDB.
 - [Flight planner](https://github.com/yapijs/flight-planner/tree/InMemoryApp) - application receives flight data via RestAPI, validates information and saves in memory. DB support will be added soon. Endpoint access via authorization.  
